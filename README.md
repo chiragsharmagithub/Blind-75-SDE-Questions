@@ -1,7 +1,5 @@
 # Blind-75-SDE-Questions
-This repo will have solutions of Blink 75 SDE Questions sheet
-
-This repo will have solutions of blind 75 sde questions sheet.
+This repo will have solutions of Blind 75 SDE Questions sheet
 
 Language: C++
 
